@@ -12,6 +12,26 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## How to generate new [GatsBy](https://www.gatsbyjs.com/ "GatsBy") Project
+
+1. By installing [gatsby-cli](https://www.gatsbyjs.com/docs/reference/gatsby-cli/ "How to use gatsby-cli") globally
+    + Install it globally
+
+    ```bash
+      npm install -g gatsby-cli
+    ```
+    + create a new project
+
+    ```bash
+      gatsby new project_name
+    ```
+
+2. Without installing [gatsby-cli](https://www.gatsbyjs.com/docs/reference/gatsby-cli/ "How to use gatsby-cli") globally
+
+```bash
+  npx gatsby new project_name
+```
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -103,3 +123,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## References
+
+1. [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog "Gatsby Starter Blog - github")
+2. [Gatsby Plugin Library](https://www.gatsbyjs.com/plugins "Gatsby Plugin Library")
